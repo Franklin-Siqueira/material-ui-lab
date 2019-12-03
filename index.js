@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter } from "react-router-dom";
 // import express from 'express';
 // import './style.css';
-import App from './jsx/App';
+import App from './src/jsx/App';
 //
 // ReactDOM.render(
 //   return (<App />),

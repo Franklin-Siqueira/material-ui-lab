@@ -9,9 +9,9 @@ import { library } from "@fortawesome/fontawesome-svg-core";
 import { fab } from "@fortawesome/free-brands-svg-icons";
 import { faCheckSquare, faCoffee, faClipboard } from "@fortawesome/free-solid-svg-icons";
 //
-import Menu from "./Menu";
+// import Menu from "./Menu";
 import Login from "./Login";
-import Header from "./Header";
+// import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./note/Note";
 import NewNote from "./note/NewNote";
@@ -20,7 +20,7 @@ import TodoList from "./TodoList";
 import EmojiDictionary from "./EmojiDictionary";
 import CarsRenderer from "../lab/DestructureArrays";
 //
-import notes from "../data/notes.js";
+// import notes from "../data/notes.js";
 import contacts from "../data/contacts.js";
 import emojipedia from "../data/emojipedia.js";
 //
