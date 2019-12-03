@@ -7,6 +7,9 @@
 
 # testing
 /coverage
+/server
+App.test.js
+serviceWorker.js
 
 # production
 /build
