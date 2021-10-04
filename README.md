@@ -50,7 +50,7 @@ Then you can run the local dev server using:
 
 > $> npm start
 
-This will start the dev server at localhost:1234.
+This will start the dev server at localhost:3000.
 
 ---
 **Structure**
